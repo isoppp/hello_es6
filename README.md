@@ -1,6 +1,8 @@
 ES6 Test
 ====================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/isoppp/hello_es6.svg)](https://greenkeeper.io/)
+
 ## Files
 
 - _template_broser :  
